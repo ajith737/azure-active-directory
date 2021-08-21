@@ -39,4 +39,10 @@ Because Azure Active Directory domain services includes multiple domain controll
 - An Azure Active Directory domain services managed domain is a **standalone** domain.
 - Azure Active Directory domain services managed domain **IS NOT** an extension of an. onprem Active Directory domain
 
+# Comparing Identity Solutions
+There are several ways that IT administrators can provide identity services to applications that they wish to run in Azure.
+
+![10](Images/10.PNG)
+![11](Images/11.PNG)
+![12](Images/12.PNG)
 ***
